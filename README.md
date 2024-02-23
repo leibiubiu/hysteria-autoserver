@@ -5,3 +5,9 @@
 */60 * * * * /usr/bin/run-one /home/pi/tools/hysteria/sysconf.sh
 * * * * * /usr/bin/run-one /home/pi/tools/hysteria/initMyNet.sh
 ```
+
+下载合适的hysteria，我用的 v1.3.3 版本
+
+```shell
+https://github.com/apernet/hysteria/releases/tag/v1.3.3
+```
